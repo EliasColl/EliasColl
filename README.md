@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hola a todos, soy Elías Coll 🤗
 
-<!--
-**EliasOS/EliasOS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+## Descripción Personal:
+- 🌱 Desarrollador apasionado por [temas o tecnologías de tu interés].
+- 🔭 Actualmente trabajando en [proyecto/empresa].
+- 🚀 Interesado en contribuir a [temas de software libre, startups, etc.].
 
-Here are some ideas to get you started:
+## Tecnologías y herramientas:
+- 🧑‍💻 Lenguajes: Python, JavaScript, Java, HTML y CSS.
+- ⚙️ Frameworks: Spring Boot, BootStrap.
+- ☁️ DevOps: Docker.
+- Y más...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Estadísticas del Perfil
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
+
