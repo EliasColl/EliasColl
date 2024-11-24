@@ -1,17 +1,16 @@
-# Hola a todos, soy Elías Coll 🤗
+# Welcome, I'm Elías Coll 🤗
 
----
-## Descripción Personal:
-- 🌱 Desarrollador apasionado por [temas o tecnologías de tu interés].
-- 🔭 Actualmente trabajando en [proyecto/empresa].
-- 🚀 Interesado en contribuir a [temas de software libre, startups, etc.].
+## Personal Description:
+- 🌱 Developer passionate about Telephony, Apps, and some Web projects.  
+- 🔭 Currently studying at IES Clara del Rey.  
+- 🚀 Interested in contributing to the world of mobile and web development.  
 
-## Tecnologías y herramientas:
-- 🧑‍💻 Lenguajes: Python, JavaScript, Java, HTML y CSS.
-- ⚙️ Frameworks: Spring Boot, BootStrap.
-- ☁️ DevOps: Docker.
-- Y más...
+## Technologies and Tools:
+- 🧑‍💻 Languages: Python, JavaScript, Java, HTML, and CSS.  
+- ⚙️ Frameworks: Spring Boot, Bootstrap.  
+- ☁️ DevOps: Docker.  
+- And more...  
 
-## Estadísticas del Perfil
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
-
+## Profile Stats
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=EliasColl&theme=prussian&show_icons=true&hide_border=false&count_private=true)
+![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EliasColl&theme=prussian&hide_border=false)
